@@ -1,6 +1,6 @@
-#Daniel - you will need to run the Python code first to create the files used in this program
-
 #!/usr/bin/env Rscript
+
+#Daniel - you will need to run the Python code first to create the files used in this program
 #usage- Rscript --vanilla finalRcode.R
 
 install.packages("tidyverse")
